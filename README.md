@@ -1,4 +1,5 @@
 # [Portfolio](https://jkpotato.computer)
+I Am Quincy, son of Quincy! Are you kidding me? Nothing gets past my bow.
 
 <!--
 **JKPotato-Computer/JKPotato-Computer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
